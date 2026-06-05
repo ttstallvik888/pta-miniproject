@@ -33,8 +33,11 @@ I returned to my data for this film post working on *Boogie Nights* and re-made 
 
 ## Graphs for *Boogie Nights*
 
+As this was the final film I worked on for this project, I had the most time leading up to my data compiling and visualizing to really think about how I wanted to approach the comparison work. In some ways, bizarely, that almost complicated my mindset to the point of simplification; I chose to start my categorization by simply labeling if a screenshot's alt-text mentioned a male figure and/or a female figure -- though, of course, the same issue of unspecified groups arose. 
+
 <div class="flourish-embed flourish-survey" data-src="visualisation/29267330"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29267330/thumbnail" width="100%" alt="survey visualization" /></noscript></div>
 
+<div class="flourish-embed flourish-survey" data-src="visualisation/29269483"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29269483/thumbnail" width="100%" alt="survey visualization" /></noscript></div>
 
 
 ## Bibliography
