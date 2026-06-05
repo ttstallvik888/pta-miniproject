@@ -11,11 +11,9 @@ The extraction process for compiling the data on gender from the alt-text was in
 
 ## Graphs for *There Will Be Blood*
 
-This one is embedded as an iframe.
+As the first graph I made (mostly as a barebones introduction to my idea), it lacks interactivity and any aesthetic appeal. It was also made before I shifted to comparing both location and tracking. However, this is the prototype-graph for my idea, how I initially wanted to see my comparison. 
 
-<iframe title="Gender pay gap" aria-label="Range Plot" id="datawrapper-chart-Tv80T" src="https://datawrapper.dwcdn.net/Tv80T/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
-</script>
-
+![There Will Be Blood Graph](pta-metadata-ThereWillBeBlood-gender_location.svg)
 
 
 ## Graphs for *Punch-Drunk Love*
