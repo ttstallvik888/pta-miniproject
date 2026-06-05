@@ -24,10 +24,6 @@ As the first graph I made (mostly as a barebones introduction to my idea), it la
 
 ## Graphs for *Boogie Nights*
 
-This one is an svg file.
 
-![inagural addresses common words](heatmap.svg)
-
-Here's a bunch of analysis.
 
 ## Bibliography
