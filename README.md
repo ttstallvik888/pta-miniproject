@@ -28,6 +28,7 @@ I returned to my data for this film post working on *Boogie Nights* and re-made 
 
 <div class="flourish-embed flourish-survey" data-src="visualisation/29269274"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29269274/thumbnail" width="100%" alt="survey visualization" /></noscript></div>
 
+<div class="flourish-embed flourish-survey" data-src="visualisation/29269387"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29269387/thumbnail" width="100%" alt="survey visualization" /></noscript></div>
 
 
 ## Graphs for *Boogie Nights*
