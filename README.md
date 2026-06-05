@@ -41,8 +41,8 @@ As this was the final film I worked on for this project, I had the most time lea
 
 Alongside my visualizations, I also calculated some percentage information from the gender+location data in excel to draw out some semblance of a "conclusion" in a different format:
 
-- Percentage Exterior "Female" Screenshots: 18%
-- Percentage Exterior "Male" Screenshots: 38%
+- Percentage of Exterior "Female" Screenshots: 18%
+- Percentage of Exterior "Male" Screenshots: 38%
 
 These numbers help show the unequal distribution of exterior vs interior shots within the already unequal division of gender. 
 
