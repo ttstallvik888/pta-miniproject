@@ -11,7 +11,7 @@ The extraction process for compiling the data on gender from the alt-text was in
 
 ## Graphs for *There Will Be Blood*
 
-As the first graph I made (mostly as a barebones introduction to my idea), it lacks interactivity and any aesthetic appeal. It was also made before I shifted to comparing both location and tracking. However, this is the prototype-graph for my idea, how I initially wanted to see my comparison. 
+As the first graph I made (mostly as a barebones introduction to my idea), it lacks interactivity and much of an aesthetic appeal. It was also made before I shifted to comparing both location and tracking. However, this is the prototype-graph for my idea, how I initially wanted to see my comparison. As such, I am keeping it as my example graph from *There Will Be Blood* to show process. This particular film also yielded some of the least interesting results -- semi obviously, as the film is so intensely focused on a single man and his work in very male-dominated spaces. 
 
 ![There Will Be Blood Graph](pta-metadata-ThereWillBeBlood-gender_location.svg)
 
