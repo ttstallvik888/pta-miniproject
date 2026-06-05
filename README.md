@@ -24,6 +24,8 @@ As the first graph I made (mostly as a barebones introduction to my idea), it la
 
 ## Graphs for *Boogie Nights*
 
+<div class="flourish-embed flourish-survey" data-src="visualisation/29267330"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29267330/thumbnail" width="100%" alt="survey visualization" /></noscript></div>
+
 
 
 ## Bibliography
